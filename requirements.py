@@ -19,3 +19,4 @@ yarl==1.9.4
 python-dotenv==1.0.1
 greenlet==3.0.3
 sqlalchemy==2.0.31
+asyncpg==0.29.0
